@@ -2,5 +2,5 @@
 [リポジトリ](https://github.com/KMKZYozora/kz-Note)
 
 ## Page Links
-- [JavaScriptPage](./src/jsPage/index.html)
+- [site](./site/index.html)
 
