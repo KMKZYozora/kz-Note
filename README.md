@@ -10,10 +10,10 @@
 <br>
 
 ## Markdown Links
-1. [Docker](sub\Docker\README.md)
-1. [Git](sub\Git\README.md)
-1. [Linux](sub\Linux\README.md)
-1. [PowerShell](sub\PowerShell\README.md)
-1. [Windows](sub\Windows\README.md)
-1. [日常](sub\日常\README.md)
+1. [Docker](sub/Docker/README.md)
+1. [Git](sub/Git/README.md)
+1. [Linux](sub/Linux/README.md)
+1. [PowerShell](sub/PowerShell/README.md)
+1. [Windows](sub/Windows/README.md)
+1. [日常](sub/日常/README.md)
 <br>
