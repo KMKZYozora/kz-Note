@@ -1,0 +1,23 @@
+﻿Brackets
+ChatGPT
+Coda 2
+CotEditor
+Eclipse
+Emacs
+GitHub Copilot
+JetBrains IDE
+Liveweave
+Mery
+mi
+nano
+NoEditor
+Notepad++
+Repl.it
+Sublime Text
+TeraPad
+Vim
+Visual Studio
+Visual Studio Code
+Xcode
+サクラエディタ
+秀丸エディタ

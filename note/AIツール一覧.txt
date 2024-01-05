@@ -1,0 +1,7 @@
+﻿ChatGPT
+SQL
+Numpy
+Pandas
+Matplotlib
+TensorFlow
+PyTorch

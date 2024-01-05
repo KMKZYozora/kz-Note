@@ -1,0 +1,17 @@
+﻿AWS CodeBuild
+Azure DevOps
+Bamboo
+Bitrise
+Buddy
+CircleCI
+Codeship
+Drone.io
+GCP Cloud Build
+GitHub Actions
+GitLab CI
+Heroku CI
+IBM DevOps
+Jenkins
+Shippable
+TeamCity
+Travis CI

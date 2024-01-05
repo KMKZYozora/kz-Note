@@ -1,0 +1,18 @@
+﻿Amazon Web Services
+Alibaba Cloud
+ALTUS
+Google Cloud
+IBM Cloud
+IDCFクラウド
+Lightsail
+Microsoft Azure
+Oracle Cloud
+Red Hat Cloud
+Smart Data Platform（SDPF）クラウド
+Z.com Cloud
+さくらのクラウド
+ニフクラ
+ホワイトクラウド ASPIRE
+その他パブリッククラウド
+レンタルサーバ
+オンプレミス

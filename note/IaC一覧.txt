@@ -1,0 +1,12 @@
+﻿Ansible
+AWS CloudFormation
+Azure Resource Manager
+Crossplane
+Chef
+Google Cloud Deployment Manager
+Packer
+Pulumi
+Puppet
+Serverless Framework
+Serverspec
+Terraform

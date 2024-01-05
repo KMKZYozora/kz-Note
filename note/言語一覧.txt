@@ -1,0 +1,44 @@
+﻿Assembly
+C
+C#
+C++
+Clojure
+CSS
+COBOL
+Common Lisp
+Dart
+Elixir
+Elm
+Erlang
+F#
+GLSL
+Go
+Haskell
+HCL
+HLSL
+HTML
+Java
+JavaScript
+Julia
+Kotlin
+Lua
+Matlab
+Metal
+Objective-C
+Perl
+PHP
+Python
+R
+Ruby
+Rust
+Scala
+Solidity
+SQL
+Squirrel
+Swift
+TypeScript
+VBA
+VBScript
+Visual Basic
+Visual Basic.NET
+Zig

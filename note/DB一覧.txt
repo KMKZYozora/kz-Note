@@ -1,0 +1,27 @@
+﻿Amazon Athena
+Amazon Aurora
+Amazon DynamoDB
+Amazon Redshift
+Apache Cassandra
+Apache CouchDB
+Apache HBase
+Azure SQL Database
+BigQurey
+Cloud Firestore
+Cloud Spanner
+Elasticsearch
+Firebird
+Google Cloud SQL
+IBM Db2
+MariaDB
+Microsoft Access
+Microsoft SQL Server
+MongoDB
+MySQL
+Neo4j
+Oracle Database
+PostgreSQL
+Redis
+SAP HANA
+SQLite
+Teradata
